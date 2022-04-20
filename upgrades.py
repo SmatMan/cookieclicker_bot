@@ -3,7 +3,7 @@ import pyautogui
 import time 
 
 class Upgrades(Enum):
-    SHIPMENT = (1679, 853)
+    #SHIPMENT = (1679, 853)
     WIZARD = (1685, 785)
     TEMPLE = (1678, 722)
     BANK = (1678, 659)
